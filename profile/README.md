@@ -1,5 +1,5 @@
-# PipeLaunch
+![PipeLaunch](repository-header.png "PipeLaunch")
 
-### Salesforce Enrichment Platform
+## Salesforce Enrichment Platform
 
 
