@@ -6,8 +6,4 @@ PipeLaunch gives your sales team a competitive advantage by removing 9 hours per
 
 ### Contact us
 
-www.pipelaunch.com
-
-hello@pipelaunch.com
-
-+49 89 1896 8840
+www.pipelaunch.com | hello@pipelaunch.com
