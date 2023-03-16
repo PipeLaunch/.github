@@ -6,4 +6,4 @@ PipeLaunch gives your sales team a competitive advantage by removing 9 hours per
 
 ### Contact us
 
-www.pipelaunch.com | hello@pipelaunch.com
+https://pipelaunch.com | hello@pipelaunch.com
